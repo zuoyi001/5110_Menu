@@ -9,3 +9,7 @@
 📥  Encoder Library: https://github.com/0xPIT/encoder/tree/arduino
 📥 TimerOne library: https://github.com/PaulStoffregen/TimerOne
 
+
+
+https://github.com/zuoyi001/5110_Menu/blob/main/schematic.png
+
